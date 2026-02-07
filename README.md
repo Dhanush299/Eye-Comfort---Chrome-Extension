@@ -28,17 +28,6 @@ Designed for eye comfort, night browsing, and minimal distraction.
 ✅ Opera
 (Firefox support with small changes)
 
-📸 Screenshots
-
-Add screenshots here (recommended)
-
-Popup ON state
-
-Popup OFF state
-
-Website before dark mode
-
-Website after dark mode
 
 🛠 Installation (Developer Mode)
 
@@ -112,5 +101,6 @@ Fork the repository
 Create a new branch
 
 Make your changes
+
 
 Submit a pull request
