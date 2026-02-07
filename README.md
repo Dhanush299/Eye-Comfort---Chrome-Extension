@@ -1,6 +1,6 @@
 🌙 Simple Dark Mode – Chrome Extension
 
-A lightweight one-click dark mode extension that enables or disables dark mode on any website.
+A lightweight, one-click dark mode extension that enables or disables dark mode on any website.
 Designed for eye comfort, night browsing, and minimal distraction.
 
 ✨ Features
@@ -9,7 +9,7 @@ Designed for eye comfort, night browsing, and minimal distraction.
 
 🎛 Modern toggle switch UI
 
-⚡ Works instantly on the current tab
+⚡ Instantly works on the current tab
 
 🧠 No data collection
 
@@ -26,47 +26,49 @@ Designed for eye comfort, night browsing, and minimal distraction.
 ✅ Brave
 
 ✅ Opera
-(Firefox support with small changes)
 
+⚠ Firefox (requires small changes)
 
 🛠 Installation (Developer Mode)
 
-Clone this repository:
+Clone the repository
 
 git clone https://github.com/your-username/simple-dark-mode-extension.git
 
-Open Chrome and go to:
+
+Open Chrome Extensions page
 
 chrome://extensions
 
 
-Enable Developer mode (top right)
+Enable Developer Mode (top-right corner)
 
 Click Load unpacked
 
 Select the project folder
 
-✅ Extension will appear in the toolbar.
+✅ The extension will now appear in your browser toolbar.
 
 📁 Project Structure
 simple-dark-mode-extension/
 │
+
 ├── manifest.json
+
 ├── popup.html
+
 ├── popup.css
+
 ├── popup.js
+
 │
+
 ├── icon16.png
+
 ├── icon48.png
+
 └── icon128.png
 
-🔐 Permissions Used
-Permission	Reason
-activeTab	Apply dark mode to current page
-scripting	Inject dark mode styles
-
-✔ No unnecessary permissions
-✔ Fully transparent
 
 🚫 Privacy Policy
 
@@ -78,29 +80,16 @@ This extension:
 
 ❌ Does NOT store personal information
 
-All functionality runs locally in the browser.
+All functionality runs locally in your browser.
 
 🚀 Future Improvements
 
 Remember dark mode per website
 
-Better dark color themes (no inversion)
+Better dark themes (no color inversion)
 
 Firefox compatibility
 
-Sync settings
+Settings sync
 
-Auto-enable mode
-
-Contributions are welcome!
-
-🤝 Contributing
-
-Fork the repository
-
-Create a new branch
-
-Make your changes
-
-
-Submit a pull request
+Auto-enable dark mode
